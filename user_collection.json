@@ -1,0 +1,25 @@
+{
+    "firstName": "Giulio",
+    "lastName": "Talarico",
+    "phoneNumber": "3481935235",
+    "email": "giuliotal@gmail.com",
+    "address": "Via Svizzera 7"
+}
+
+{
+    "id": 7,
+    "firstName": "Giovanni",
+    "lastName": "Perri",
+    "phoneNumber": "3451935235",
+    "email": "gioperri@gmail.com",
+    "address": "Via Cozzi Borghetto 35"
+}
+
+{
+    "id": 17,
+    "firstName": "Giovanni",
+    "lastName": "Violo",
+    "phoneNumber": "3452345234",
+    "email": "gio.violo1@gmail.com",
+    "address": "Via Rossini 235"
+}

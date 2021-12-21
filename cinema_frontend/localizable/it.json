@@ -1,0 +1,14 @@
+{
+  "welcome": "benvenuto",
+  "home": "home",
+  "search": "cerca",
+  "user": "utente",
+  "register": "registrati",
+  "firstName": "nome",
+  "lastName": "cognome",
+  "telephoneNumber": "telefono",
+  "email": "email",
+  "address": "indirizzo",
+  "just_added": "appena aggiunto",
+  "no_results": "nessun risultato"
+}
